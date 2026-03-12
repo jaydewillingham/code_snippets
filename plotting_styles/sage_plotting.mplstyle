@@ -1,0 +1,72 @@
+############################################
+# Figure
+############################################
+figure.facecolor : white
+figure.dpi : 150
+
+############################################
+# Axes
+############################################
+axes.facecolor : white
+axes.edgecolor : black
+axes.linewidth : 1.0
+axes.labelcolor : black
+axes.labelsize : 13
+
+############################################
+# Font
+############################################
+font.family : serif
+font.size : 13
+mathtext.fontset : stix
+
+############################################
+# Ticks
+############################################
+xtick.color : black
+ytick.color : black
+
+xtick.direction : in
+ytick.direction : in
+
+xtick.top : True
+ytick.right : True
+
+xtick.major.size : 6
+ytick.major.size : 6
+
+xtick.minor.size : 3
+ytick.minor.size : 3
+
+xtick.major.width : 1.0
+ytick.major.width : 1.0
+
+xtick.labelsize : 12
+ytick.labelsize : 12
+
+############################################
+# Lines
+############################################
+lines.linewidth : 1.8
+
+############################################
+# Legend
+############################################
+legend.facecolor : white
+legend.edgecolor : 0.7
+legend.fontsize : 11
+legend.framealpha : 0.9
+
+############################################
+# Text
+############################################
+text.color : black
+
+############################################
+# Grid (subtle journal-style grid)
+############################################
+grid.color : grey
+grid.linestyle : :
+grid.linewidth : 0.5
+grid.alpha : 0.45
+axes.grid : False
